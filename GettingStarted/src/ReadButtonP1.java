@@ -1,5 +1,16 @@
 
+/*
 
+Program: ReadButtonP1.java          Last Date of this Revision: June 9, 2022
+
+Purpose: An application to make the phidget red LED button loop modified to repeat every 10ms, 1000ms, 5000ms. 
+
+Author: Rafat E
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
 
 //Add Phidgets Library | You added a file called phidget22 when configuring your project. Import gives you access to the Phidgets library code inside that file. 
 import com.phidget22.*;

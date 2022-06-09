@@ -1,7 +1,20 @@
+/*
+
+Program: BlinkLEDP3.java          Last Date of this Revision: June 9, 2022
+
+Purpose: An application to the make the phidget LED green flash.
+
+Author: Rafat E
+School: CHHS
+Course: Computer Programming 20
+ 
+
+*/
+
 //Add Phidgets Library 
 import com.phidget22.*;
 
-public class GettingStartedP3 {
+public class BlinkLEDP3 {
     //Handle Exceptions 
     public static void main(String[] args) throws Exception{
 
